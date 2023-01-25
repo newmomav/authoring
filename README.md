@@ -2,7 +2,7 @@
 --------------------------------------------------------------------------------------------------------------
 ## Checkboxes
 - [X] External Link [get there](#external-link)
-- [X] Internal Link [get there](#internal-link))
+- [X] Internal Link [get there](#internal-link)
 - [X] Images [get there](#images)
 - [X] Emojis :smile: [get there](#emojis)
 - [X] Tables [get there](#tables)
