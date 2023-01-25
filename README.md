@@ -28,4 +28,4 @@ here you can find more images [image](https://github.com/newmomav/authoring/tree
 | lili | 29 | 162 |
 | albin | 2:heart:  | 85 |
 --------------------------------------------------------------------------------------------------------------
-[An Internal Link to a Section Heading](/newmomav/authoring/edit/main/README.md##Checkboxes)
+[An Internal Link to a Section Heading](/newmomav/authoring/edit/main/README.md#checkboxes)
