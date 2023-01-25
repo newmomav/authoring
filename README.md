@@ -12,7 +12,7 @@ more information about this project [here](https://help.github.com/en)
 
 --------------------------------------------------------------------------------------------------------------
 ## Images
-![github-git](thumbnail_IMG_2991.jpg)
+![github-git](authoring/images/farm-animal-portraits-rob-macinnis-22.jpg)
 here you can find more images [image](https://github.com/newmomav/authoring/tree/main/images)
 
 --------------------------------------------------------------------------------------------------------------
@@ -28,3 +28,4 @@ here you can find more images [image](https://github.com/newmomav/authoring/tree
 | lili | 29 | 162 |
 | albin | 2:heart:  | 85 |
 --------------------------------------------------------------------------------------------------------------
+[An Internal Link to a Section Heading](/newmomav/authoring/edit/main/README.md##Checkboxes)
