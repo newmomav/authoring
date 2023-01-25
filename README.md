@@ -12,7 +12,7 @@ more information about this project [here](https://help.github.com/en)
 
 --------------------------------------------------------------------------------------------------------------
 ## Images
-![family](farm-animal-portraits-rob-macinnis-22.jpg)
+![family](https://github.com/newmomav/authoring/blob/main/images/farm-animal-portraits-rob-macinnis-22.jpg)
 here you can find more images [image](https://github.com/newmomav/authoring/tree/main/images)
 
 --------------------------------------------------------------------------------------------------------------
